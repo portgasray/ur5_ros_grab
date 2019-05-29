@@ -1,0 +1,24 @@
+[submodule "aruco_ros"]
+	path = aruco_ros
+	url = https://github.com/portgasray/aruco_ros.git
+[submodule "easy_handeye"]
+	path = easy_handeye
+	url = https://github.com/portgasray/easy_handeye.git
+[submodule "librealsense"]
+	path = librealsense
+	url = https://github.com/portgasray/librealsense.git
+[submodule "rgbd_launch"]
+	path = rgbd_launch
+	url = https://github.com/portgasray/rgbd_launch.git
+[submodule "rqt_image_view"]
+	path = rqt_image_view
+	url = https://github.com/ros-visualization/rqt_image_view.git
+[submodule "universal_robot"]
+	path = universal_robot
+	url = https://github.com/portgasray/universal_robot.git
+[submodule "usb_cam"]
+	path = usb_cam
+	url = https://github.com/portgasray/usb_cam.git
+[submodule "vision_visp"]
+	path = vision_visp
+	url = https://github.com/portgasray/vision_visp.git
