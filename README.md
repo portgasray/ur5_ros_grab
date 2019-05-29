@@ -10,9 +10,8 @@ $ sudo apt-get install ros-kinetic-visp
 ```
 
 ```
-git clone https://github.com/portgasray/ur5_ros_grab.git --recursive
 cd ~/catkin_ws/src
-
+git clone https://github.com/portgasray/ur5_ros_grab.git --recursive
 catkin_make
 ```
 
