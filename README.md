@@ -1,4 +1,4 @@
-# UR5 REALSENSE GRIP
+# UR5 REALSENSE GRAB
 
 ### Download form repo
 
